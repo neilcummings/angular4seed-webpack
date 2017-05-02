@@ -11,6 +11,14 @@
       "dom"
     ],
     "noImplicitAny": true,
-    "suppressImplicitAnyIndexErrors": true
+    "suppressImplicitAnyIndexErrors": true,
+    "types": [
+      "node",
+      "core-js",
+      "jasmine"
+    ],
+    "typeRoots": [
+      "../node_modules/@types"
+    ]
   }
 }
